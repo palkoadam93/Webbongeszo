@@ -1,0 +1,10 @@
+C:\Users\HP 255\source\repos\Webbongeszo\bin\Debug\Webbongeszo.exe.config
+C:\Users\HP 255\source\repos\Webbongeszo\bin\Debug\Webbongeszo.exe
+C:\Users\HP 255\source\repos\Webbongeszo\bin\Debug\Webbongeszo.pdb
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.Form1.resources
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.Properties.Resources.resources
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.csproj.GenerateResource.cache
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.exe
+C:\Users\HP 255\source\repos\Webbongeszo\obj\Debug\Webbongeszo.pdb
